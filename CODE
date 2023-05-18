@@ -1,0 +1,39 @@
+Data Cleaning 
+
+Searched for duplicate values and removed one.
+Data -> Remove Duplicates 
+
+
+
+Changed Names of the president to uppercase. 
+Inserted an empty column next to president column and entered the formula UPPER=(C2). Copied the column and paste special in the president column.
+
+
+
+Added filter in the complete table to make it look organised and corrected the spelling of the parties in the party column.
+
+
+
+Inserted a new column next to the column vice and used the formula =TRIM(F2) to remove the additional space in the data. Copied the column and paste special in the vice column.  
+
+
+
+Updated the format of the salary column from currency to numbers and removed the decimals.
+
+
+
+
+Changed the format of the date created and date updated to dd/mm/yyyy.
+
+
+
+
+Deleting the column Prior as we do not need to use it and is not important for our document. 
+
+
+
+
+Deleted the first column of the table as we already have a serial number column. 
+
+
+
